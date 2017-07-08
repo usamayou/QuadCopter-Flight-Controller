@@ -1,6 +1,6 @@
 # Auto-Levelling-QuadCopter-Flight-Controller
 
-##Hardware
+## Hardware
 
  1 x 450 size frame with integrated power distribution board
 	
