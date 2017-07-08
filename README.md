@@ -8,7 +8,7 @@
 	
  1 x 3S / 2200mAh / 30C lipo
 	
- 1 x Arduino Uno or Funduino Uno
+ 1 x Arduino Uno 
 	
  1 x MPU-6050 gyro / accelerometer
 	
