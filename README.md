@@ -12,7 +12,7 @@
 	
  1 x MPU-6050 gyro / accelerometer
 	
- 1 x Flysky FS-T6 6-CH TX Transmitter
+ 1 x Flysky FS-i6 6-CH TX Transmitter and RX Receiver
 	
  1 x 2S/3S lipo battery charger
 
