@@ -1,5 +1,5 @@
-# QuadCopter-Flight-Controller
-Hardware
+# Auto-Levelling-QuadCopter-Flight-Controller
+**Hardware**
  1 x 450 size frame with integrated power distribution board
  4 x 1000kV motor / 10x4.5 props / ESC combo
  1 x 3S / 2200mAh / 30C lipo
